@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<resources>
+	<sound file="success_22050_mono.ogg"/>
+	<set path = "fonts" />
+	<font file="main.fnt" />	
+
+	<set path = "images\" />
+	<atlas>
+		<image file="button_before.png"/>
+		<image file="button_after.png"/>
+	</atlas>
+</resources>
